@@ -1,6 +1,6 @@
 <?php 
     include('database.php');
-    include('default.html');
+    include('index.html');
 
     if(!loggedin()){
         header("location:login.php");

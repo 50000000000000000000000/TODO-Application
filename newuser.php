@@ -1,5 +1,5 @@
 <?php 
-    include('default.html');
+    include('index.html');
     include('database.php');
 
     if(loggedin()) {
